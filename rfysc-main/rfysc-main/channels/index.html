@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
+    <title>Full list · C-Series RFYSC</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Instrument+Sans:wght@400..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="./list.css">
+    <link rel="icon" type="image/png" href="../favicon.png">
+</head>
+<body>
+    <header class="top">
+        <div class="top-inner">
+            <a class="brand" href="../">
+                <img src="../favicon.png" alt="" width="28" height="28">
+                <span>C-Series' FYSC Stats</span>
+            </a>
+            <div class="search-wrap">
+                <input class="search-bar list-filter" type="search" placeholder="Filter this list" aria-label="Filter channels" autocomplete="off">
+            </div>
+            <a class="ui-btn back-link" href="../">Live counter</a>
+        </div>
+    </header>
+
+    <main class="list-page">
+        <div class="list-head">
+            <h1>All channels</h1>
+            <p>Sorted by most subscribed. <span class="list-count"></span></p>
+        </div>
+
+        <div class="list">
+            <p class="list-status">Loading channels…</p>
+        </div>
+    </main>
+
+    <script src="../jquery.min.js"></script>
+    <script src="./index.js"></script>
+</body>
+</html>
