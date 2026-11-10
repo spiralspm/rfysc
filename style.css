@@ -379,26 +379,6 @@ button, input { font: inherit; color: inherit; }
 .odometer-inside { white-space: nowrap; }
 
 /* Each digit sits in its own wheel; numbers fade at the top and bottom edge as they roll */
-.hero-count .odometer-digit,
-.versus .odometer-digit {
-    margin: 0 .02em;
-    padding: 0 .05em;
-    border-radius: .14em;
-    background-color: var(--cell);
-}
-
-.hero-count .odometer-digit-inner,
-.versus .odometer-digit-inner {
-    text-align: center;
-    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 14%, #000 86%, transparent 100%);
-            mask-image: linear-gradient(to bottom, transparent 0%, #000 14%, #000 86%, transparent 100%);
-}
-
-.hero-count .odometer-formatting-mark,
-.versus .odometer-formatting-mark {
-    color: var(--text-muted);
-    padding: 0 .02em;
-}
 
 .stat .odometer-digit-inner,
 .compare_subscriberCount .odometer-digit-inner { text-align: center; }
