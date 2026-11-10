@@ -1,4 +1,4 @@
-var api = "https://egg-online-market-vessels.trycloudflare.com/api/channels"
+var api = "https://sox-depot-dare-verified.trycloudflare.com/api/channels"
 
 var channels = [];
 
