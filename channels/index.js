@@ -1,4 +1,4 @@
-var api = "https://sox-depot-dare-verified.trycloudflare.com/api/channels"
+var api = "https://mathematical-telecom-informed-detector.trycloudflare.com/api/channels"
 
 var channels = [];
 
