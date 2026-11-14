@@ -109,6 +109,9 @@ function setTab(name) {
 document.querySelector(".button_fullList").addEventListener("click", () => {
     window.location.href = "channels"
 })
+document.querySelector(".button_ytCh").addEventListener("click", () => {
+    window.location.href = "https://www.youtube.com/@spiralspm"
+})
 
 document.querySelector(".info").addEventListener("click", () => setTab("info"));
 document.querySelector(".livecount").addEventListener("click", () => setTab("livecount"));
