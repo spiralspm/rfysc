@@ -1,8 +1,6 @@
-// what u doing snooping at my code losr
-// it's basic, you wont be suprised
-// anyway like and sub to my channel
+// stay out my code ;)
 
-const BASE = "https://diana-haven-anaheim-handbags.trycloudflare.com/"
+const BASE = "https://incidents-removing-describes-thumbzilla.trycloudflare.com/"
 const API = BASE + "api/channels";
 const API_FASTEST = BASE + "api/fastest";
 
