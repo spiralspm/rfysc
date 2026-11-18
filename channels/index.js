@@ -1,4 +1,4 @@
-var api = "https://diana-haven-anaheim-handbags.trycloudflare.com/api/channels"
+var api = "https://incidents-removing-describes-thumbzilla.trycloudflare.com/api/channels"
 
 var channels = [];
 
