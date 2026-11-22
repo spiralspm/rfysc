@@ -1,4 +1,4 @@
-var api = "https://incidents-removing-describes-thumbzilla.trycloudflare.com/api/channels"
+var api = "https://helicopter-latino-night-reduce.trycloudflare.com/api/channels"
 
 var channels = [];
 
