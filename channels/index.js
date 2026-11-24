@@ -1,4 +1,4 @@
-var api = "https://helicopter-latino-night-reduce.trycloudflare.com/api/channels"
+var api = "https://lock-millennium-meetup-commonwealth.trycloudflare.com/api/channels"
 
 var channels = [];
 
