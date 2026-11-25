@@ -1,4 +1,4 @@
-var api = "https://lock-millennium-meetup-commonwealth.trycloudflare.com/api/channels"
+var api = "https://lots-single-hunt-virtual.trycloudflare.com/api/channels"
 
 var channels = [];
 
