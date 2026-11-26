@@ -1,4 +1,4 @@
-var api = "https://lots-single-hunt-virtual.trycloudflare.com/api/channels"
+var api = "https://suites-tom-adaptive-votes.trycloudflare.com/api/channels"
 
 var channels = [];
 
