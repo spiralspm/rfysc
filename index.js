@@ -1,6 +1,6 @@
 // stay out my code ;)
 
-const BASE = "https://suites-tom-adaptive-votes.trycloudflare.com/"
+const BASE = "https://afternoon-why-sin-famous.trycloudflare.com/"
 const API = BASE + "api/channels";
 const API_FASTEST = BASE + "api/fastest";
 
